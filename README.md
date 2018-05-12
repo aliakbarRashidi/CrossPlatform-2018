@@ -1,2 +1,1 @@
-# cross-platform
-Cross-platform application on c++
+# CrossPlatform-2018
